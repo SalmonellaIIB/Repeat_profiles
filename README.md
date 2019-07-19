@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 # Repeat Profiles Library
 
@@ -20,6 +19,3 @@ Apache License, version 2.0. See LICENSE for details.
 Repeat_Profiles rely soley on python dependencies.
 
 
-=======
-# Repeat_profiles
->>>>>>> 506797b9c65e5bc4f20e593b641b00af9b9c345e
