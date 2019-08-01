@@ -16,6 +16,6 @@ Apache License, version 2.0. See LICENSE for details.
 
 ### Dependencies
 
-Repeat_Profiles rely soley on python dependencies.
+Repeat_Profiles rely solely on python dependencies.
 
 
