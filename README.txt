@@ -1,4 +1,4 @@
-#These files were created by Noel Cabañas in order to perform analyses of repeat sequences in amphibians. 
+#These files were created by Noel Cabañas in order to perform analyses of repeat sequences in amphibian mitogenomes. 
 This README lists all the files in this repository.
 
 
