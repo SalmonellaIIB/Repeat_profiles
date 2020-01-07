@@ -13,12 +13,15 @@ Repeat_Profiles is a flexible sequence repeats identificator and anotator Python
 
 ##  To build the examples
 
-#### Step 1. Make sure that you have installed[Python] 3.4 or superior.(https://www.python.org/)
+#### Step 1. Make sure that you have installed[Python 3.4 or superior](https://www.python.org/)
 #### Step 2. We recommend using Linux or Macoperating system, but you can run the scripts without problem in Windows.
+#### Step 3. Download the directory [exmaple](https://github.com/SalmonellaIIB/Repeat_profiles/tree/master/example)from this webpage.
 
-### Step 1. [Python 3.4 or superior](https://www.python.org/)
-### Step 2.We recommend using Linux or Macoperating system, but you can run the scripts without problem in Windows.
-### Step 3.We
+#### Step 3. Enter into the folder. You will encounter all the scripts and files necessary identify direct and inverted repeats. From /example/ directory.
+```
+$ ./python get_mitogenomes.py
+```
+
 
 ## License
 
