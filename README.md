@@ -31,7 +31,7 @@ $ ./python get_mitogenomes.py
 The script will create a folder called 'repeats', with two subfolders. The folder named 'fasta' are the mitogenomes in fasta format. The folder called 'results' contain the direct and inverted repeat sequences identified.
 
 
-- For more details about how to run the scripts loon into the File Manual. 
+- For more details about how to run the scripts loon into the file Manual, read the article by Noel Cabañas *et al.* or contact me. 
 
 
 
@@ -45,5 +45,5 @@ Repeat_Profiles rely solely on python dependencies.
 
 ## References
 
-Noel Cabañas et al. Repetitive DNA profile of the Amphibian mitogenome. (Still in peer review)
+Noel Cabañas *et al.* Repetitive DNA profile of the Amphibian mitogenome. (Still in peer review)
 
