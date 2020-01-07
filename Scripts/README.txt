@@ -20,3 +20,5 @@ ramdom_seq.py----->This script can randomized a sequence of nucleotides ten time
 result_by_size.py----->create tables where you can find the number of repeat and direct repeat sequences of different sizes for every mitogenome. 
 
 ramdom_seq.py----->This script randomized the biological position of the nucleotides in DNA sequence.
+
+DNA_downloader.py----->Download fasta and gbank DNA sequences
