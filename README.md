@@ -1,7 +1,7 @@
 
 # Repeat Profiles Library
 
-##Overview
+## overview
 Repeat_Profiles is a flexible sequence repeats identificator and anotator Python 3 library.
 
   - Detection de novo of all possible direct and inverted repeat sequences in mitochondrial genomes.
