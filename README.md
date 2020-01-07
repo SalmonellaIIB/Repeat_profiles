@@ -15,14 +15,19 @@ Repeat_Profiles is a flexible sequence repeats identificator and anotator Python
 
 Step 1. Make sure that you have installed [Python 3.4 or superior](https://www.python.org/)
 
+
 Step 2. We recommend using Linux or Macoperating system, but you can run the scripts without problem in Windows
 
-Step 3. Download the directory [exmaple] (https://github.com/SalmonellaIIB/Repeat_profiles/tree/master/example)from this webpage.
+
+Step 3. Download the directory [example](https://github.com/SalmonellaIIB/Repeat_profiles/tree/master/example) from this webpage.
+
 
 Step 4. Enter into the folder. You will encounter all the scripts and files necessary identify direct and inverted repeats. From /example/ directory.
+
 ```
 $ ./python get_mitogenomes.py
 ```
+
 The script will create a folder called 'repeats', with two subfolders. The folder named 'fasta' are the mitogenomes in fasta format. The folder called results contain the direct and inverted repeat sequences identified.
 
 
