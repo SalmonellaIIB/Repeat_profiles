@@ -11,7 +11,7 @@ Repeat_Profiles is a flexible sequence repeats identificator and anotator Python
 ## Version
 2.0
 
-##  To build the examples
+##  To build the example
 
 Step 1. Make sure that you have installed [Python 3.4 or superior](https://www.python.org/)
 
@@ -28,8 +28,10 @@ Step 4. Enter into the folder. You will encounter all the scripts and files nece
 $ ./python get_mitogenomes.py
 ```
 
-The script will create a folder called 'repeats', with two subfolders. The folder named 'fasta' are the mitogenomes in fasta format. The folder called results contain the direct and inverted repeat sequences identified.
+The script will create a folder called 'repeats', with two subfolders. The folder named 'fasta' are the mitogenomes in fasta format. The folder called 'results' contain the direct and inverted repeat sequences identified.
 
+
+- For more details about how to run the scripts loon into the File Manual. 
 
 
 
