@@ -15,6 +15,4 @@ mito_repeats.py ----->This is the main Script that identify the DRS and IRS and 
 
 repeats.py----->This Script is used by the mito_repeats.py.py script, both need to be in the same directory, otherwise you won't  be able to run the scripts correctly.
 
-ramdom_seq.py----->This script can randomized a sequence of nucleotides ten times.
-
 result_by_size.py----->create tables where you can find the number of repeat and direct repeat sequences of different sizes for every mitogenome. 
