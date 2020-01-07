@@ -18,3 +18,5 @@ repeats.py----->This Script is used by the mito_repeats.py.py script, both need 
 ramdom_seq.py----->This script can randomized a sequence of nucleotides ten times.
 
 result_by_size.py----->create tables where you can find the number of repeat and direct repeat sequences of different sizes for every mitogenome. 
+
+random_seq_by_size.py----->create repeat sequences
