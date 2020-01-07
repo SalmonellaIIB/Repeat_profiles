@@ -11,8 +11,9 @@ Repeat_Profiles is a flexible sequence repeats identificator and anotator Python
 ### Version
 2.0
 
-### Implementation
-This script 
+## Build and run
+
+### Step 1. Clone the TensorFlow examples source code 
 
 ### License
 
