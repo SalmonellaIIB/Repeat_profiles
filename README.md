@@ -45,5 +45,5 @@ Repeat_Profiles rely solely on python dependencies.
 
 ## References
 
-Noel Cabañas *et al.* Repetitive DNA profile of the Amphibian mitogenome. (Still in peer review)
+Cabañas, N., Becerra, A., Romero, D. et al. Repetitive DNA profile of the amphibian mitogenome. BMC Bioinformatics 21, 197 (2020). https://doi.org/10.1186/s12859-020-3532-8
 
