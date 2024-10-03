@@ -31,7 +31,7 @@ $ ./python get_mitogenomes.py
 The script will create a folder called 'repeats', with two subfolders. The folder named 'fasta' are the mitogenomes in fasta format. The folder called 'results' contain the direct and inverted repeat sequences identified.
 
 
-- For more details about how to run the scripts loon into the file Manual, read the article by Noel Cabañas *et al.* or contact me. 
+- For more details about how to run the scripts look into the file Manual, read the article by Noel Cabañas *et al.* or contact me. 
 
 
 
